@@ -1,5 +1,5 @@
 
-# ProjectPrediction - Use ML to predict the project whether pass or not?
+# ProjectPrediction - Use ML to predict whether the project passes or not.
 
 At first, we prepared Kickstarter datasets from kaggle.com as our labeled data for predicting the results. We aim to use supervised learning to train the machine with accurate prediction. As our project, the Kickstarter datasets contain data on the project Name, Category, Subcategory, Project duration, Money goal, Pledged, number of backers, and State (Failed or not). Before we continue with the data, we should install the packages for training the machine.
 
@@ -10,7 +10,7 @@ At first, we prepared Kickstarter datasets from kaggle.com as our labeled data f
  - [Types of Machine Learning](https://www.sas.com/en_gb/insights/articles/analytics/machine-learning-algorithms.html)
 ## Library Installation
 
-Install numpy on your command prompt, which are essential for 
+Install numpy on your command prompt, which is essential for 
 data structures for numerical operations.
 
 ```bash
