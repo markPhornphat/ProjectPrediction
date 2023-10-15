@@ -1,5 +1,5 @@
 
-# ProjectPrediction - Use ML to predict whether the project passes or not.
+# Machine Learning Predictive Project Outcome Analysis - Use ML to predict the project outcome whether the project succeeds or not.
 
 At first, we prepared Kickstarter datasets from kaggle.com as our labeled data for predicting the results. We aim to use supervised learning to train the machine with accurate prediction. As our project, the Kickstarter datasets contain data on the project Name, Category, Subcategory, Project duration, Money goal, Pledged, number of backers, and State (Failed or not). Before we continue with the data, we should install the packages for training the machine.
 
